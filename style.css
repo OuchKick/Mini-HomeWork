@@ -2,5 +2,7 @@
 display: flex;
 justify-content: center;
 background-color: lavender;
-
+height: 6rem;
+font-size: 50px;
 }
+
